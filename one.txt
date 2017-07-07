@@ -1,2 +1,7 @@
 this file is to create a  conflict in git repository
+<<<<<<< HEAD
+=======
+hi hammed
+welcome to capgemini
+>>>>>>> c7bef7995059174b2b51f6ac7eb986eb683ea523
 hi kiran
